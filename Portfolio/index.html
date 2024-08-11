@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <nav id="navbar">
+            <ul>
+                <li><a href="#welcome-section">Início</a></li>
+                <li><a href="#about">Sobre Mim</a></li>
+                <li><a href="#projects">Projetos</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+        <section id="welcome-section">
+            <div class="welcome-container">
+                <h1>Olá, Eu Sou Roberto :)</h1>
+                <p>Desenvolvedor Web, Desenvolvedor de Jogos Digitais, amante de C# e jogos online</p>
+                <a id="profile-link" href="https://github.com/seu-usuario" target="_blank"><a href="#contact" class="btn-main">Entre em Contato</a></a>
+            </div>
+        </section>
+    </header>
+
+    <section id="about">
+        <div class="about-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03c-6A4dy8QhXQuCNXboJW2jCqElUVdhQu4zSgp4_RGjZgSGu-RYeqSm5uk2gbw-UUT0&usqp=CAU" alt="Minha Foto">
+            <div class="about-text">
+                <h2>Sobre Mim</h2>
+                <p>Sou um desenvolvedor em aprendizagem tendo meu maior forte de conhecimento em programação de mecânicas para jogos digitais (c#) </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Meus Projetos</h2>
+        <div class="projects-grid">
+            <div class="project-tile">
+                <a href="https://github.com/seu-usuario/projeto1" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <h3>Calculadora de INSS</h3>
+                    <p>Uma calculadora para calcular o INSS.</p>
+                </a>
+            </div>
+            <div class="project-tile">
+                <a href="https://github.com/seu-usuario/projeto2" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <h3>Formulário de Pesquisa</h3>
+                    <p>Modelo de um formulário</p>
+                </a>
+            </div>
+            <div class="project-tile">
+                <a href="https://github.com/seu-usuario/projeto3" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <h3>Página de Tributo</h3>
+                    <p>Uma página para homenagear Joana D'Arc.</p>
+                </a>
+            </div>
+            <div class="project-tile">
+                <a href="https://github.com/seu-usuario/projeto4" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <h3>Valorant Coins Shop</h3>
+                    <p>Protótipo de Loja para um produto</p>
+                </a>
+            </div>
+            <div class="project-tile">
+                <a href="https://github.com/seu-usuario/projeto5" target="_blank">
+                    <i class="fab fa-github"></i>
+                    <h3>Documentação Técnica - C#</h3>
+                    <p>Documentação detalhada sobre a linguagem C#.</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <form action="#" method="post">
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Mensagem:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+        <div class="contact-icons">
+            <a href="https://github.com/seu-usuario" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="mailto:seu-email@exemplo.com"><i class="fas fa-envelope"></i></a>
+        </div>
+    </section>
+
+    <footer id="footer">
+        <p>&copy; 2024, Roberto Alves. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
