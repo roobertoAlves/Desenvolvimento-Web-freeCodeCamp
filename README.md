@@ -17,10 +17,42 @@ Cada pasta contém um projeto individual com seus respectivos arquivos e estrutu
 ## 📂 Projetos Incluídos
 
 ### 🔹 Página de Homenagem
+Uma página dedicada a homenagear uma figura fictícia ou real, utilizando estrutura semântica e estilo visual simples e responsivo.
+
+> **Responsável por:** Programação e design  
+> **Tecnologias:** HTML5 e CSS3
+
+---
+
 ### 🔹 Página de Documentação Técnica
+Simula a documentação técnica de uma tecnologia ou linguagem, com navegação lateral e conteúdo dividido em seções informativas.
+
+> **Responsável por:** Programação e design  
+> **Tecnologias:** HTML5 e CSS3
+
+---
+
 ### 🔹 Landing Page de Produto
+Página de divulgação de um produto com foco em conversão, utilizando chamadas para ação (CTA), layout atrativo e responsividade.
+
+> **Responsável por:** Programação e design  
+> **Tecnologias:** HTML5 e CSS3
+
+---
+
 ### 🔹 Página de Portfólio Pessoal
+Portfólio online que apresenta os projetos, habilidades e formas de contato do desenvolvedor.
+
+> **Responsável por:** Programação e design  
+> **Tecnologias:** HTML5 e CSS3
+
+---
+
 ### 🔹 Calculadora do INSS
+Calculadora funcional para simulação do desconto do INSS com base no salário informado, utilizando JavaScript para os cálculos dinâmicos.
+
+> **Responsável por:** Programação e design  
+> **Tecnologias:** HTML5, CSS3 e JavaScript
 
 ---
 
