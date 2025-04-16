@@ -68,8 +68,7 @@ Calculadora funcional para simulação do desconto do INSS com base no salário 
 
 Caso deseje saber mais ou entrar em contato:
 
-**Nome:**  José Roberto J A Damasceno
-**Email:** robertsnpiii@gmail.com
-**Portfólio:** https://github.com/roobertoAlves
-**Linkedin:** https://www.linkedin.com/in/josé-damasceno-839658360/
+- 📧 Email: jbetodamasceno@gmail.com  
+- 🌐 Portfólio / GitHub: https://github.com/roobertoAlves
+- LinkedIn: https://www.linkedin.com/in/jose-damasceno-034660360/
  
