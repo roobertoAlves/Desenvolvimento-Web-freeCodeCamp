@@ -70,5 +70,7 @@ Caso deseje saber mais ou entrar em contato:
 
 - 📧 Email: jbetodamasceno@gmail.com  
 - 🌐 Portfólio / GitHub: https://github.com/roobertoAlves
-- LinkedIn: https://www.linkedin.com/in/jose-damasceno-034660360/
+- LinkedIn: www.linkedin.com/in/joseroberto-damasceno
+
+
  
