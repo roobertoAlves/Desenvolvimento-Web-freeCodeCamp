@@ -97,89 +97,6 @@ Desenvolvimento-Web-freeCodeCamp/
     └── script.js              # JavaScript for calculations
 ```
 
----
-
-## 🚀 How to Run Locally
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic text editor (VS Code recommended)
-- Git (optional, for cloning)
-
-### Method 1: Download ZIP
-1. **Download the repository**
-   - Click the green "Code" button on GitHub
-   - Select "Download ZIP"
-   - Extract the ZIP file to your desired location
-
-2. **Open the main portfolio**
-   ```powershell
-   # Navigate to the extracted folder
-   cd Desenvolvimento-Web-freeCodeCamp
-   
-   # Open index.html in your browser
-   # Double-click index.html or right-click → "Open with" → Browser
-   ```
-
-### Method 2: Git Clone
-1. **Clone the repository**
-   ```powershell
-   git clone https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp.git
-   cd Desenvolvimento-Web-freeCodeCamp
-   ```
-
-2. **Open with Live Server (Recommended)**
-   - Install "Live Server" extension in VS Code
-   - Right-click on `index.html`
-   - Select "Open with Live Server"
-   - Automatically opens at `http://127.0.0.1:5500`
-
-### Method 3: Python Simple Server
-```powershell
-# Python 3
-python -m http.server 8000
-
-# Python 2
-python -m SimpleHTTPServer 8000
-
-# Then open: http://localhost:8000
-```
-
----
-
-## 🌐 How to Deploy
-
-### Deploy to GitHub Pages
-1. **Fork this repository**
-   - Click "Fork" button on GitHub
-   - Clone your forked repository
-
-2. **Enable GitHub Pages**
-   - Go to your repository on GitHub
-   - Click "Settings" → "Pages"
-   - Under "Source", select "Deploy from a branch"
-   - Select "main" branch and "/ (root)" folder
-   - Click "Save"
-
-3. **Wait for deployment**
-   - GitHub will build and deploy your site
-   - Check the "Actions" tab for deployment status
-   - Your site will be available at: `https://yourusername.github.io/Desenvolvimento-Web-freeCodeCamp/`
-
-### Deploy to Other Platforms
-
-#### ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) Netlify
-1. Go to [Netlify](https://netlify.com)
-2. Drag and drop the project folder
-3. Site will be deployed instantly
-
-#### ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) Vercel
-1. Go to [Vercel](https://vercel.com)
-2. Import your GitHub repository
-3. Deploy with default settings
-
----
-
 ## ✨ Features
 
 ### Responsive Design
@@ -205,36 +122,6 @@ python -m SimpleHTTPServer 8000
 - **CSS3 features** - Flexbox, Grid, animations, variables
 - **Progressive enhancement** - Works without JavaScript
 - **Cross-browser compatibility** - Tested on modern browsers
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```powershell
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Commit your changes**
-   ```powershell
-   git commit -m "Add some amazing feature"
-   ```
-5. **Push to the branch**
-   ```powershell
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
-
-### Development Guidelines
-- Follow existing code style and structure
-- Test on multiple browsers and devices
-- Ensure accessibility compliance
-- Add comments for complex functionality
-- Update documentation if needed
-
 ---
 
 ## 📄 License
@@ -272,4 +159,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Built with ❤️ by José Roberto Damasceno**
+**Built by José Roberto Damasceno**
