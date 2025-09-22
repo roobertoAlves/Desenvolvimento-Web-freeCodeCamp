@@ -2,12 +2,9 @@
 
 
 
-**🔗 Ver Portfólio Online:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Este repositório contém projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco nos fundamentos de **HTML5**, **CSS3** e introdução ao **JavaScript**.
+**🔗 Ver Portfólio Online:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
 
-
-
-Este repositório contém 5 projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/).## 🔗 Acesso Online
-
+Este repositório contém projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco nos fundamentos de **HTML5**, **CSS3** e introdução ao **JavaScript**.
 
 
 ## 🚀 Projetos:**🏠 Portfólio Principal:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/  
