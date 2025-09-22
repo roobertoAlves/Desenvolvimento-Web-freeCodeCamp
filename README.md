@@ -1,4 +1,4 @@
-# 🌐 Projetos freeCodeCamp — Desenvolvimento Web Responsivo# 🌐 freeCodeCamp Projects — Responsive Web Development
+🌐 freeCodeCamp Projects — Responsive Web Development
 
 
 
