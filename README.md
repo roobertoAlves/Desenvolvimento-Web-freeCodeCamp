@@ -1,30 +1,13 @@
-# 🌐 freeCodeCamp## 🚀 Developed Projects### 📄 [Technical ### 🛍️ [Product L### 💼 [Personal Portfolio](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Portfolio/)
-**Folder:** `Portfolio/`
-
-Online portfolio showcasing projects, skills, and developer contact information.
-
-**🎯 Goal:** Create a professional and responsive portfolio  
-**📱 Responsive:** ✅ Yes  
-**🛠️ Technologies:** HTML5, CSS3age](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
-**Folder:** `Shop/`
-
-Product landing page focused on conversion, using call-to-action (CTA) elements and attractive design.
-
-**🎯 Goal:** Develop conversion pages and apply UX/UI principles  
-**📱 Responsive:** ✅ Yes  
-**🛠️ Technologies:** HTML5, CSS3ation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
-**Folder:** `tech_doc/`
-
-Technical documentation page with fixed side navigation and content divided into organized sections.
-
-**🎯 Goal:** Create layouts with side navigation and content structuring  
-**📱 Responsive:** ✅ Yes  
-**🛠️ Technologies:** HTML5, CSS3 — Responsive Web Development
+# 🌐 freeCodeCamp Projects — Responsive Web Development
 
 This repository contains projects developed during the **Responsive Web Design** course from [freeCodeCamp](https://www.freecodecamp.org/), focusing on **HTML5**, **CSS3** fundamentals and introduction to **JavaScript**.
 
-**🔗 Project Access:** Each folder contains an individual project that can be accessed through GitHub Pages at the base URL: 
-**https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/**
+## 🔗 Live Access
+
+**🏠 Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/  
+**📂 Individual Projects:** Each project can be accessed by adding the folder name to the base URL.
+
+> **Note:** The main URL now displays a beautiful portfolio landing page with direct links to all projects.
 
 ---
 
@@ -36,7 +19,7 @@ This repository contains projects developed during the **Responsive Web Design**
 
 ---
 
-## � Projetos Desenvolvidos
+## 🚀 Developed Projects
 
 ### 🏛️ [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
 **Folder:** `Tribute-page/`
@@ -60,36 +43,36 @@ Interactive survey form with HTML5 validations and modern, accessible design.
 
 ---
 
-### � [Documentação Técnica](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
-**Pasta:** `tech_doc/`
+### 📄 [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
+**Folder:** `tech_doc/`
 
-Página de documentação técnica com navegação lateral fixa e conteúdo dividido em seções organizadas.
+Technical documentation page with fixed side navigation and content divided into organized sections.
 
-**🎯 Objetivo:** Criar layouts com navegação lateral e estruturação de conteúdo  
-**📱 Responsivo:** ✅ Sim  
-**🛠️ Tecnologias:** HTML5, CSS3
-
----
-
-### �️ [Landing Page - Loja](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
-**Pasta:** `Shop/`
-
-Landing page de produto com foco em conversão, utilizando chamadas para ação (CTA) e design atrativo.
-
-**🎯 Objetivo:** Desenvolver páginas de conversão e aplicar princípios de UX/UI  
-**📱 Responsivo:** ✅ Sim  
-**🛠️ Tecnologias:** HTML5, CSS3
+**🎯 Goal:** Create layouts with side navigation and content structuring  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3
 
 ---
 
-### � [Portfólio Pessoal](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Portfolio/)
-**Pasta:** `Portfolio/`
+### 🛍️ [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
+**Folder:** `Shop/`
 
-Portfólio online apresentando projetos, habilidades e informações de contato do desenvolvedor.
+Product landing page focused on conversion, using call-to-action (CTA) elements and attractive design.
 
-**🎯 Objetivo:** Criar um portfólio profissional e responsivo  
-**📱 Responsivo:** ✅ Sim  
-**🛠️ Tecnologias:** HTML5, CSS3
+**🎯 Goal:** Develop conversion pages and apply UX/UI principles  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3
+
+---
+
+### 💼 [Personal Portfolio](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Portfolio/)
+**Folder:** `Portfolio/`
+
+Online portfolio showcasing projects, skills, and developer contact information.
+
+**🎯 Goal:** Create a professional and responsive portfolio  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3
 
 ---
 
@@ -104,6 +87,28 @@ Functional calculator for INSS (Brazilian Social Security) discount simulation b
 
 ---
 
+## 🔧 GitHub Pages Setup Fix
+
+### ❌ **Previous Issue**
+The repository was experiencing **404 errors** when trying to access individual projects because:
+
+1. **Missing Root Index:** No `index.html` file existed at the repository root
+2. **GitHub Pages Requirement:** GitHub Pages needs a main landing page to properly serve subdirectories
+3. **Direct Folder Access:** Users couldn't navigate between projects easily
+
+### ✅ **Solution Implemented**
+1. **Created `index.html`** at the repository root as a portfolio landing page
+2. **Beautiful Landing Page:** Professional design with project cards and navigation
+3. **Working Links:** All project links now work correctly from the main page
+4. **Better UX:** Users can see all projects at once and navigate easily
+
+### 🔧 **How GitHub Pages Works**
+- **Root URL:** `https://username.github.io/repository-name/` serves `index.html`
+- **Subdirectories:** `https://username.github.io/repository-name/folder/` serves `folder/index.html`
+- **Requirement:** Each accessible path needs its own `index.html` file
+
+---
+
 ## 🌟 Project Features
 
 - ✅ **Fully Responsive** - Adapted for desktop, tablet, and mobile
@@ -112,6 +117,7 @@ Functional calculator for INSS (Brazilian Social Security) discount simulation b
 - 📱 **Mobile First** - Developed prioritizing mobile devices
 - 🧹 **Clean Code** - Organized structure and well-commented
 - 🔗 **GitHub Pages** - All projects are available online
+- 🏠 **Portfolio Landing** - Beautiful main page with project showcase
 
 ---
 
@@ -119,6 +125,7 @@ Functional calculator for INSS (Brazilian Social Security) discount simulation b
 
 ```
 Desenvolvimento-Web-freeCodeCamp/
+├── index.html              # 🆕 Main portfolio landing page
 ├── Calculadora-inss/       # INSS discount calculator
 ├── form/                   # Survey form
 ├── Portfolio/              # Personal portfolio
