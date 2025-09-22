@@ -1,116 +1,65 @@
-# freeCodeCamp Projects - Responsive Web Development# freeCodeCamp Projects - Responsive Web Development
+# freeCodeCamp Projects - Responsive Web Development
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
+Este repositório contém **5 projetos** desenvolvidos durante o curso de certificação **Responsive Web Design** do [freeCodeCamp](https://www.freecodecamp.org/). Cada projeto demonstra conceitos fundamentais de desenvolvimento web usando HTML5, CSS3 e JavaScript.
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
+## 🌐 Live Demo
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+**Portfolio Principal:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+> A URL principal exibe uma página de portfólio com navegação direta para todos os projetos individuais.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+---
 
+## 🚀 Projetos Desenvolvidos
 
+### 1. 🏛️ [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
+**Pasta:** `Tribute-page/`
 
-This repository contains **5 projects** developed during the **Responsive Web Design** certification course from [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates fundamental web development concepts using HTML5, CSS3, and JavaScript.This repository contains **5 projects** developed during the **Responsive Web Design** certification course from [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates fundamental web development concepts using HTML5, CSS3, and JavaScript.
+- **Objetivo:** Criar uma página tributo usando HTML5 semântico e CSS3 responsivo
+- **Homenageado:** Joana D'Arc
+- **Conceitos-chave:** Marcação semântica, imagens responsivas, estilização básica
+- **Tecnologias:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+### 2. 📝 [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
+**Pasta:** `form/`
 
+- **Objetivo:** Construir um formulário de pesquisa interativo com validações HTML5
+- **Conceitos-chave:** Elementos de formulário, validação de entrada, acessibilidade
+- **Funcionalidades:** Campos obrigatórios, validação de email, design responsivo
+- **Tecnologias:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Live Demo## Live Demo
+### 3. 📖 [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
+**Pasta:** `tech_doc/`
 
+- **Objetivo:** Criar uma página de documentação técnica com navegação
+- **Conceitos-chave:** Navegação lateral fixa, organização de conteúdo
+- **Funcionalidades:** Rolagem suave, navegação responsiva, conteúdo estruturado
+- **Tecnologias:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+### 4. 🛍️ [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
+**Pasta:** `Shop/`
 
-**Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/**Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
+- **Objetivo:** Projetar uma página de produto focada em conversão
+- **Conceitos-chave:** Elementos de call-to-action, layout de marketing, princípios UX/UI
+- **Funcionalidades:** Vitrine de produtos, preços, design responsivo
+- **Tecnologias:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+### 5. 🧮 [Calculadora INSS](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)
+**Pasta:** `Calculadora-inss/`
 
+- **Objetivo:** Construir uma calculadora funcional para simulação de desconto do INSS brasileiro
+- **Conceitos-chave:** Lógica de programação JavaScript, manipulação do DOM, cálculos
+- **Funcionalidades:** Cálculos em tempo real, validação de entrada, interface responsiva
+- **Tecnologias:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-> The main URL displays a portfolio landing page with direct navigation to all individual projects.> The main URL displays a portfolio landing page with direct navigation to all individual projects.
+---
 
-
-
-------
-
-
-
-## Projects Overview## Projects Overview
-
-
-
-### 1. [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)### 1. [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
-
-**Folder:** `Tribute-page/`**Folder:** `Tribute-page/`
-
-- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3
-
-- **Tribute to:** Joan of Arc- **Tribute to:** Joan of Arc
-
-- **Key Concepts:** Semantic markup, responsive images, basic styling- **Key Concepts:** Semantic markup, responsive images, basic styling
-
-- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-### 2. [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)### 2. [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
-
-**Folder:** `form/`**Folder:** `form/`
-
-- **Purpose:** Build an interactive survey form with HTML5 validations- **Purpose:** Build an interactive survey form with HTML5 validations
-
-- **Key Concepts:** Form elements, input validation, accessibility- **Key Concepts:** Form elements, input validation, accessibility
-
-- **Features:** Required fields, email validation, responsive design- **Features:** Required fields, email validation, responsive design
-
-- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-### 3. [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)### 3. [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
-
-**Folder:** `tech_doc/`**Folder:** `tech_doc/`
-
-- **Purpose:** Create a technical documentation page with navigation- **Purpose:** Create a technical documentation page with navigation
-
-- **Key Concepts:** Fixed sidebar navigation, content organization- **Key Concepts:** Fixed sidebar navigation, content organization
-
-- **Features:** Smooth scrolling, responsive navigation, structured content- **Features:** Smooth scrolling, responsive navigation, structured content
-
-- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-### 4. [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)### 4. [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
-
-**Folder:** `Shop/`**Folder:** `Shop/`
-
-- **Purpose:** Design a conversion-focused product landing page- **Purpose:** Design a conversion-focused product landing page
-
-- **Key Concepts:** Call-to-action elements, marketing layout, UX/UI principles- **Key Concepts:** Call-to-action elements, marketing layout, UX/UI principles
-
-- **Features:** Product showcase, pricing, responsive design- **Features:** Product showcase, pricing, responsive design
-
-- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-### 5. [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)### 5. [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)
-
-**Folder:** `Calculadora-inss/`**Folder:** `Calculadora-inss/`
-
-- **Purpose:** Build a functional calculator for Brazilian Social Security (INSS) discount simulation- **Purpose:** Build a functional calculator for Brazilian Social Security (INSS) discount simulation
-
-- **Key Concepts:** JavaScript programming logic, DOM manipulation, calculations- **Key Concepts:** JavaScript programming logic, DOM manipulation, calculations
-
-- **Features:** Real-time calculations, input validation, responsive interface- **Features:** Real-time calculations, input validation, responsive interface
-
-- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
----- **Technologies:** HTML5, CSS3, JavaScript- [Contributing](#-contributing)## 🔧 Tecnologias:## 🔧 Tecnologias Utilizadas
-
-
-
-## Technologies Used
+## 🔧 Tecnologias Utilizadas
 
 
 
