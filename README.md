@@ -1,162 +1,30 @@
-# 🌐 freeCodeCamp Projects — Responsive Web Development# 🌐 Projetos freeCodeCamp — Desenvolvimento Web Responsivo# 🌐 freeCodeCamp Projects — Responsive Web Development
+# freeCodeCamp Projects - Responsive Web Development# freeCodeCamp Projects - Responsive Web Development
 
 
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)**🔗 Ver Portfólio Online:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Este repositório contém projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco nos fundamentos de **HTML5**, **CSS3** e introdução ao **JavaScript**.
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 
 
-This repository contains **5 projects** developed during the **Responsive Web Design** certification course from [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates fundamental web development concepts using HTML5, CSS3, and JavaScript.
+This repository contains **5 projects** developed during the **Responsive Web Design** certification course from [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates fundamental web development concepts using HTML5, CSS3, and JavaScript.This repository contains **5 projects** developed during the **Responsive Web Design** certification course from [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates fundamental web development concepts using HTML5, CSS3, and JavaScript.
 
-Este repositório contém 5 projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/).## 🔗 Acesso Online
 
-## 🔗 Live Demo
 
+## Live Demo## Live Demo
 
 
-**🏠 Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
 
-## 🚀 Projetos:**🏠 Portfólio Principal:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/  
+**Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/**Main Portfolio:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
 
-> The main URL displays a beautiful portfolio landing page with direct navigation to all individual projects.
 
-- 🏛️ **Página de Tributo** - Homenagem à Joana D'Arc**📂 Projetos Individuais:** Cada projeto pode ser acessado adicionando o nome da pasta à URL base.
 
----
-
-- 📋 **Formulário de Pesquisa** - Formulário interativo com validações
-
-## 📋 Table of Contents
-
-- 📄 **Documentação Técnica** - Página com navegação lateral> **Nota:** A URL principal agora exibe uma landing page de portfólio com links diretos para todos os projetos.
-
-- [Projects Overview](#-projects-overview)
-
-- [Technologies Used](#-technologies-used)- 🛍️ **Landing Page** - Página de produto para conversão
-
-- [Project Structure](#-project-structure)
-
-- [How to Run Locally](#-how-to-run-locally)- 🧮 **Calculadora INSS** - Calculadora funcional com JavaScript---
-
-- [How to Deploy](#-how-to-deploy)
-
-- [Project Details](#-project-details)
-
-- [Features](#-features)
-
-- [Contributing](#-contributing)## 🔧 Tecnologias:## 🔧 Tecnologias Utilizadas
-
-- [License](#-license)
-
-- [Contact](#-contact)- HTML5, CSS3, JavaScript
-
-
-
----- **HTML5** - Estruturação semântica das páginas
-
-
-
-## 🚀 Projects Overview**📖 [Documentação Completa](./docs/README.md)**- **CSS3** - Estilização e responsividade  
-
-- **JavaScript** - Interatividade (projeto da Calculadora do INSS)
-
-### 1. 🏛️ [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
-
-**Folder:** `Tribute-page/`---
-
-- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3
-
-- **Tribute to:** Joan of Arc## 🚀 Projetos Desenvolvidos
-
-- **Key Concepts:** Semantic markup, responsive images, basic styling
-
-- **Technologies:** HTML5, CSS3### 🏛️ [Página de Tributo](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
-
-**Pasta:** `Tribute-page/`
-
-### 2. 📋 [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
-
-**Folder:** `form/`Página dedicada a homenagear Joana D'Arc, utilizando estrutura semântica HTML5 e design responsivo com CSS3.
-
-- **Purpose:** Build an interactive survey form with HTML5 validations
-
-- **Key Concepts:** Form elements, input validation, accessibility**🎯 Objetivo:** Aplicar conceitos de estruturação HTML semântica e estilização básica  
-
-- **Features:** Required fields, email validation, responsive design**📱 Responsivo:** ✅ Sim  
-
-- **Technologies:** HTML5, CSS3**🛠️ Tecnologias:** HTML5, CSS3
-
-
-
-### 3. 📄 [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)---
-
-**Folder:** `tech_doc/`
-
-- **Purpose:** Create a technical documentation page with navigation### 📋 [Formulário de Pesquisa](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
-
-- **Key Concepts:** Fixed sidebar navigation, content organization**Pasta:** `form/`
-
-- **Features:** Smooth scrolling, responsive navigation, structured content
-
-- **Technologies:** HTML5, CSS3Formulário interativo de pesquisa com validações HTML5 e design moderno e acessível.
-
-
-
-### 4. 🛍️ [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)**🎯 Objetivo:** Dominar elementos de formulário HTML5 e validações  
-
-**Folder:** `Shop/`**📱 Responsivo:** ✅ Sim  
-
-- **Purpose:** Design a conversion-focused product landing page**🛠️ Tecnologias:** HTML5, CSS3
-
-- **Key Concepts:** Call-to-action elements, marketing layout, UX/UI principles
-
-- **Features:** Product showcase, pricing, responsive design---
-
-- **Technologies:** HTML5, CSS3
-
-### 📄 [Documentação Técnica](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
-
-### 5. 🧮 [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)**Pasta:** `tech_doc/`
-
-**Folder:** `Calculadora-inss/`
-
-- **Purpose:** Build a functional calculator for Brazilian Social Security (INSS) discount simulationPágina de documentação técnica com navegação lateral fixa e conteúdo dividido em seções organizadas.
-
-- **Key Concepts:** JavaScript programming logic, DOM manipulation, calculations
-
-- **Features:** Real-time calculations, input validation, responsive interface**🎯 Objetivo:** Criar layouts com navegação lateral e estruturação de conteúdo  
-
-- **Technologies:** HTML5, CSS3, JavaScript**📱 Responsivo:** ✅ Sim  
-
-**🛠️ Tecnologias:** HTML5, CSS3
-
----
-
----
-
-## 🔧 Technologies Used
-
-### 🛍️ [Landing Page - Loja](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
-
-| Technology | Purpose | Projects Used In |**Pasta:** `Shop/`
-
-|------------|---------|------------------|
-
-| **HTML5** | Semantic page structure and markup | All projects |Landing page de produto com foco em conversão, utilizando chamadas para ação (CTA) e design atrativo.
-
-| **CSS3** | Styling, animations, and responsive design | All projects |
-
-| **JavaScript** | Interactive functionality and calculations | INSS Calculator |**🎯 Objetivo:** Desenvolver páginas de conversão e aplicar princípios de UX/UI  
-
-| **Font Awesome** | Icons and visual elements | Main portfolio |**📱 Responsivo:** ✅ Sim  
-
-| **Google Fonts** | Typography enhancement | Main portfolio |**🛠️ Tecnologias:** HTML5, CSS3
+> The main URL displays a portfolio landing page with direct navigation to all individual projects.> The main URL displays a portfolio landing page with direct navigation to all individual projects.
 
 
 
@@ -164,299 +32,513 @@ Este repositório contém 5 projetos desenvolvidos durante o curso **Responsive 
 
 
 
-## 📁 Project Structure### 🧮 [Calculadora do INSS](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)
+## Projects Overview## Projects Overview
 
-**Pasta:** `Calculadora-inss/`
 
-```
 
-Desenvolvimento-Web-freeCodeCamp/Calculadora funcional para simulação do desconto do INSS com base no salário informado, com cálculos dinâmicos em JavaScript.
+### 1. [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)### 1. [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
 
-├── 📄 index.html              # Main portfolio landing page
+**Folder:** `Tribute-page/`**Folder:** `Tribute-page/`
 
-├── 🎨 styles.css              # External CSS for main portfolio**🎯 Objetivo:** Implementar lógica de programação e interatividade com JavaScript  
+- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3
 
-├── 📖 README.md               # This documentation**📱 Responsivo:** ✅ Sim  
+- **Tribute to:** Joan of Arc- **Tribute to:** Joan of Arc
 
-├── 🚫 .nojekyll               # Disables Jekyll processing for GitHub Pages**🛠️ Tecnologias:** HTML5, CSS3, JavaScript
+- **Key Concepts:** Semantic markup, responsive images, basic styling- **Key Concepts:** Semantic markup, responsive images, basic styling
 
-├── 📁 docs/                   # Documentation folder
+- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-│   └── README.md              # Detailed documentation---
 
-├── 🏛️ Tribute-page/           # Project 1: Tribute Page
 
-│   ├── index.html## 🔧 Configuração do GitHub Pages
+### 2. [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)### 2. [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
+
+**Folder:** `form/`**Folder:** `form/`
+
+- **Purpose:** Build an interactive survey form with HTML5 validations- **Purpose:** Build an interactive survey form with HTML5 validations
+
+- **Key Concepts:** Form elements, input validation, accessibility- **Key Concepts:** Form elements, input validation, accessibility
+
+- **Features:** Required fields, email validation, responsive design- **Features:** Required fields, email validation, responsive design
+
+- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+### 3. [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)### 3. [Technical Documentation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
+
+**Folder:** `tech_doc/`**Folder:** `tech_doc/`
+
+- **Purpose:** Create a technical documentation page with navigation- **Purpose:** Create a technical documentation page with navigation
+
+- **Key Concepts:** Fixed sidebar navigation, content organization- **Key Concepts:** Fixed sidebar navigation, content organization
+
+- **Features:** Smooth scrolling, responsive navigation, structured content- **Features:** Smooth scrolling, responsive navigation, structured content
+
+- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+### 4. [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)### 4. [Product Landing Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
+
+**Folder:** `Shop/`**Folder:** `Shop/`
+
+- **Purpose:** Design a conversion-focused product landing page- **Purpose:** Design a conversion-focused product landing page
+
+- **Key Concepts:** Call-to-action elements, marketing layout, UX/UI principles- **Key Concepts:** Call-to-action elements, marketing layout, UX/UI principles
+
+- **Features:** Product showcase, pricing, responsive design- **Features:** Product showcase, pricing, responsive design
+
+- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+### 5. [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)### 5. [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)
+
+**Folder:** `Calculadora-inss/`**Folder:** `Calculadora-inss/`
+
+- **Purpose:** Build a functional calculator for Brazilian Social Security (INSS) discount simulation- **Purpose:** Build a functional calculator for Brazilian Social Security (INSS) discount simulation
+
+- **Key Concepts:** JavaScript programming logic, DOM manipulation, calculations- **Key Concepts:** JavaScript programming logic, DOM manipulation, calculations
+
+- **Features:** Real-time calculations, input validation, responsive interface- **Features:** Real-time calculations, input validation, responsive interface
+
+- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)- **Technologies:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+---- **Technologies:** HTML5, CSS3, JavaScript- [Contributing](#-contributing)## 🔧 Tecnologias:## 🔧 Tecnologias Utilizadas
+
+
+
+## Technologies Used
+
+
+
+| Technology | Purpose | Projects Used In |---- [License](#-license)
+
+|------------|---------|------------------|
+
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** | Semantic page structure and markup | All projects |
+
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** | Styling, animations, and responsive design | All projects |
+
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | Interactive functionality and calculations | INSS Calculator |## 🔧 Technologies Used- [Contact](#-contact)- HTML5, CSS3, JavaScript
+
+| ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) **Font Awesome** | Icons and visual elements | Main portfolio |
+
+| ![Google Fonts](https://img.shields.io/badge/-Google%20Fonts-4285F4?style=flat&logo=google&logoColor=white) **Google Fonts** | Typography enhancement | Main portfolio |
+
+
+
+---| Technology | Purpose | Projects Used In |
+
+
+
+## Project Structure|------------|---------|------------------|
+
+
+
+```| **HTML5** | Semantic page structure and markup | All projects |---- **HTML5** - Estruturação semântica das páginas
+
+Desenvolvimento-Web-freeCodeCamp/
+
+├── index.html              # Main portfolio landing page| **CSS3** | Styling, animations, and responsive design | All projects |
+
+├── styles.css              # External CSS for main portfolio
+
+├── README.md               # This documentation| **JavaScript** | Interactive functionality and calculations | INSS Calculator |
+
+├── .nojekyll               # Disables Jekyll processing for GitHub Pages
+
+├── Tribute-page/           # Project 1: Tribute Page| **Font Awesome** | Icons and visual elements | Main portfolio |
+
+│   ├── index.html
+
+│   └── styles.css| **Google Fonts** | Typography enhancement | Main portfolio |## 🚀 Projects Overview**📖 [Documentação Completa](./docs/README.md)**- **CSS3** - Estilização e responsividade  
+
+├── form/                   # Project 2: Survey Form
+
+│   ├── index.html
 
 │   └── styles.css
 
-├── 📋 form/                   # Project 2: Survey Form### ❌ **Problema Anterior**
+├── tech_doc/               # Project 3: Technical Documentation---- **JavaScript** - Interatividade (projeto da Calculadora do INSS)
 
-│   ├── index.htmlO repositório estava apresentando **erros 404** ao tentar acessar projetos individuais porque:
+│   ├── index.html
 
 │   └── styles.css
 
-├── 📄 tech_doc/               # Project 3: Technical Documentation1. **Falta de Index Principal:** Não existia arquivo `index.html` na raiz do repositório
+├── Shop/                   # Project 4: Product Landing Page
 
-│   ├── index.html2. **Requisito do GitHub Pages:** GitHub Pages precisa de uma página principal para servir subdiretórios adequadamente
+│   ├── index.html## 📁 Project Structure### 1. 🏛️ [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
 
-│   └── styles.css3. **Navegação Limitada:** Usuários não conseguiam navegar entre projetos facilmente
+│   └── styles.css
 
-├── 🛍️ Shop/                   # Project 4: Product Landing Page
+└── Calculadora-inss/       # Project 5: INSS Calculator
 
-│   ├── index.html### ✅ **Solução Implementada**
+    ├── index.html
 
-│   └── styles.css1. **Criado `index.html`** na raiz como página de portfólio principal
-
-└── 🧮 Calculadora-inss/       # Project 5: INSS Calculator2. **Landing Page Profissional:** Design moderno com cards de projetos e navegação
-
-    ├── index.html3. **Links Funcionais:** Todos os links dos projetos agora funcionam corretamente
-
-    ├── styles.css4. **Melhor UX:** Usuários podem ver todos os projetos de uma vez e navegar facilmente
+    ├── styles.css```**Folder:** `Tribute-page/`---
 
     └── script.js              # JavaScript for calculations
 
-```### 🔧 **Como o GitHub Pages Funciona**
-
-- **URL Raiz:** `https://username.github.io/repository-name/` serve o `index.html`
-
----- **Subdiretórios:** `https://username.github.io/repository-name/pasta/` serve `pasta/index.html`
-
-- **Requisito:** Cada caminho acessível precisa do seu próprio arquivo `index.html`
-
-## 🖥️ How to Run Locally
-
----
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)## 🌟 Características dos Projetos
-
-- Basic text editor (VS Code recommended)
-
-- Git (optional, for cloning)- ✅ **Totalmente Responsivos** - Adaptados para desktop, tablet e mobile
-
-- ♿ **Acessibilidade** - Seguem práticas básicas de acessibilidade web
-
-### Method 1: Download ZIP- 🎨 **Design Moderno** - Interface limpa e user-friendly
-
-1. **Download the repository**- 📱 **Mobile First** - Desenvolvidos priorizando dispositivos móveis
-
-   - Click the green "Code" button on GitHub- 🧹 **Código Limpo** - Estrutura organizada e bem comentada
-
-   - Select "Download ZIP"- 🔗 **GitHub Pages** - Todos os projetos estão disponíveis online
-
-   - Extract the ZIP file to your desired location- 🏠 **Portfólio Principal** - Landing page moderna com showcase dos projetos
+```Desenvolvimento-Web-freeCodeCamp/
 
 
 
-2. **Open the main portfolio**---
+---├── 📄 index.html              # Main portfolio landing page- **Purpose:** Create a tribute page using semantic HTML5 and responsive CSS3
 
-   ```bash
 
-   # Navigate to the extracted folder## 📁 Estrutura do Repositório
 
-   cd Desenvolvimento-Web-freeCodeCamp
+## How to Run Locally├── 🎨 styles.css              # External CSS for main portfolio
 
-   ```
 
-   # Open index.html in your browserDesenvolvimento-Web-freeCodeCamp/
 
-   # Double-click index.html or right-click → "Open with" → Browser├── index.html              # 🆕 Página principal do portfólio
+### Prerequisites├── 📖 README.md               # This documentation- **Tribute to:** Joan of Arc## 🚀 Projetos Desenvolvidos
 
-   ```├── styles.css              # 🆕 Estilos CSS externos
+- A modern web browser (Chrome, Firefox, Safari, Edge)
 
-├── Calculadora-inss/       # Calculadora de desconto INSS
+- Basic text editor (VS Code recommended)---
 
-### Method 2: Git Clone├── form/                   # Formulário de pesquisa
+- Git (optional, for cloning)
 
-1. **Clone the repository**├── Shop/                   # Landing page de produto
+## Technologies Used
 
-   ```bash├── tech_doc/              # Documentação técnica
+### Method 1: Download ZIP
 
-   git clone https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp.git├── Tribute-page/          # Página de homenagem
+1. **Download the repository**| Technology | Purpose | Projects Used In |
 
-   cd Desenvolvimento-Web-freeCodeCamp└── README.md              # Este arquivo
+   - Click the green "Code" button on GitHub|------------|---------|------------------|
+
+   - Select "Download ZIP"| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** | Semantic page structure and markup | All projects |
+
+   - Extract the ZIP file to your desired location| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3** | Styling, animations, and responsive design | All projects |
+
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | Interactive functionality and calculations | INSS Calculator |
+
+2. **Open the main portfolio**| ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) **Font Awesome** | Icons and visual elements | Main portfolio |
+
+   ```bash| ![Google Fonts](https://img.shields.io/badge/-Google%20Fonts-4285F4?style=flat&logo=google&logoColor=white) **Google Fonts** | Typography enhancement | Main portfolio |
+
+   # Navigate to the extracted folder
+
+   cd Desenvolvimento-Web-freeCodeCamp---
+
+   
+
+   # Open index.html in your browser## Project Structure
+
+   # Double-click index.html or right-click → "Open with" → Browser
 
    ``````
 
+Desenvolvimento-Web-freeCodeCamp/
 
+### Method 2: Git Clone├── index.html              # Main portfolio landing page
 
-2. **Open with Live Server (Recommended)**---
+1. **Clone the repository**├── styles.css              # External CSS for main portfolio
 
-   - Install "Live Server" extension in VS Code
+   ```bash├── README.md               # This documentation
 
-   - Right-click on `index.html`## 📚 Sobre o Curso
+   git clone https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp.git├── .nojekyll               # Disables Jekyll processing for GitHub Pages
 
-   - Select "Open with Live Server"
+   cd Desenvolvimento-Web-freeCodeCamp├── Tribute-page/           # Project 1: Tribute Page
 
-   - Automatically opens at `http://127.0.0.1:5500`Este repositório faz parte da certificação **Responsive Web Design** do freeCodeCamp, que aborda:
+   ```│   ├── index.html
 
+│   └── styles.css
 
+2. **Open with Live Server (Recommended)**├── form/                   # Project 2: Survey Form
 
-### Method 3: Python Simple Server- Estruturação HTML semântica
+   - Install "Live Server" extension in VS Code│   ├── index.html
 
-```bash- Estilização avançada com CSS3
+   - Right-click on `index.html`│   └── styles.css
 
-# Python 3- Design responsivo e mobile-first
+   - Select "Open with Live Server"├── tech_doc/               # Project 3: Technical Documentation
 
-python -m http.server 8000- Flexbox e CSS Grid
+   - Automatically opens at `http://127.0.0.1:5500`│   ├── index.html
 
-- Acessibilidade web
+│   └── styles.css
 
-# Python 2- Introdução ao JavaScript
+### Method 3: Python Simple Server├── Shop/                   # Project 4: Product Landing Page
 
-python -m SimpleHTTPServer 8000
+```bash│   ├── index.html
 
----
+# Python 3│   └── styles.css
+
+python -m http.server 8000└── Calculadora-inss/       # Project 5: INSS Calculator
+
+    ├── index.html
+
+# Python 2    ├── styles.css
+
+python -m SimpleHTTPServer 8000    └── script.js              # JavaScript for calculations
+
+```
 
 # Then open: http://localhost:8000
 
-```## 🚀 Como Executar Localmente
+```---
 
 
 
----1. **Clone o repositório:**
-
-   ```bash
-
-## 🚀 How to Deploy   git clone https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp.git
-
-   ```
-
-### Deploy to GitHub Pages
-
-2. **Navegue até a pasta:**
-
-1. **Fork this repository**   ```bash
-
-   - Click "Fork" button on GitHub   cd Desenvolvimento-Web-freeCodeCamp
-
-   - Clone your forked repository   ```
+---## How to Run Locally
 
 
 
-2. **Enable GitHub Pages**3. **Abra o arquivo principal:**
+## How to Deploy### Prerequisites
 
-   - Go to your repository on GitHub   - Abra `index.html` no seu navegador, ou
+- A modern web browser (Chrome, Firefox, Safari, Edge)
 
-   - Click "Settings" → "Pages"   - Use um servidor local como Live Server (VS Code)
+### Deploy to GitHub Pages- Basic text editor (VS Code recommended)
 
-   - Under "Source", select "Deploy from a branch"
+- Git (optional, for cloning)
 
-   - Select "main" branch and "/ (root)" folder4. **Navegue pelos projetos:**
+1. **Fork this repository**
 
-   - Click "Save"   - Clique nos cards dos projetos na página principal
+   - Click "Fork" button on GitHub### Method 1: Download ZIP
 
-   - Ou acesse diretamente as pastas individuais
+   - Clone your forked repository1. **Download the repository**
+
+   - Click the green "Code" button on GitHub
+
+2. **Enable GitHub Pages**   - Select "Download ZIP"
+
+   - Go to your repository on GitHub   - Extract the ZIP file to your desired location
+
+   - Click "Settings" → "Pages"
+
+   - Under "Source", select "Deploy from a branch"2. **Open the main portfolio**
+
+   - Select "main" branch and "/ (root)" folder   ```bash
+
+   - Click "Save"   # Navigate to the extracted folder
+
+   cd Desenvolvimento-Web-freeCodeCamp
+
+3. **Wait for deployment**   
+
+   - GitHub will build and deploy your site   # Open index.html in your browser
+
+   - Check the "Actions" tab for deployment status   # Double-click index.html or right-click → "Open with" → Browser
+
+   - Your site will be available at: `https://yourusername.github.io/Desenvolvimento-Web-freeCodeCamp/`   ```
+
+
+
+### Deploy to Other Platforms### Method 2: Git Clone
+
+1. **Clone the repository**
+
+#### ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) Netlify   ```bash
+
+1. Go to [Netlify](https://netlify.com)   git clone https://github.com/roobertoAlves/Desenvolvimento-Web-freeCodeCamp.git
+
+2. Drag and drop the project folder   cd Desenvolvimento-Web-freeCodeCamp
+
+3. Site will be deployed instantly   ```
+
+
+
+#### ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) Vercel2. **Open with Live Server (Recommended)**
+
+1. Go to [Vercel](https://vercel.com)   - Install "Live Server" extension in VS Code
+
+2. Import your GitHub repository   - Right-click on `index.html`
+
+3. Deploy with default settings   - Select "Open with Live Server"
+
+   - Automatically opens at `http://127.0.0.1:5500`
+
+---
+
+### Method 3: Python Simple Server
+
+## Features```bash
+
+# Python 3
+
+### Responsive Designpython -m http.server 8000
+
+- **Mobile-first approach** - Optimized for mobile devices
+
+- **Flexible grid layouts** - Adapts to any screen size# Python 2
+
+- **Responsive typography** - Scales appropriately across devicespython -m SimpleHTTPServer 8000
+
+- **Touch-friendly navigation** - Optimized for touch interactions
+
+# Then open: http://localhost:8000
+
+### Accessibility```
+
+- **Semantic HTML5** - Proper heading hierarchy and landmarks
+
+- **Alt text for images** - Screen reader friendly---
+
+- **Keyboard navigation** - Fully navigable without mouse
+
+- **High contrast ratios** - Meets WCAG guidelines## How to Deploy
+
+
+
+### Performance### Deploy to GitHub Pages
+
+- **Optimized images** - Proper sizing and formats
+
+- **Minimal dependencies** - Only essential external resources1. **Fork this repository**
+
+- **Clean code structure** - Well-organized and commented   - Click "Fork" button on GitHub
+
+- **Fast loading times** - Optimized for quick page loads   - Clone your forked repository
+
+
+
+### Modern Web Standards2. **Enable GitHub Pages**
+
+- **HTML5 semantic elements** - `<header>`, `<nav>`, `<main>`, `<section>`   - Go to your repository on GitHub
+
+- **CSS3 features** - Flexbox, Grid, animations, variables   - Click "Settings" → "Pages"
+
+- **Progressive enhancement** - Works without JavaScript   - Under "Source", select "Deploy from a branch"
+
+- **Cross-browser compatibility** - Tested on modern browsers   - Select "main" branch and "/ (root)" folder
+
+   - Click "Save"
+
+---
 
 3. **Wait for deployment**
 
-   - GitHub will build and deploy your site---
+## Contributing   - GitHub will build and deploy your site
 
    - Check the "Actions" tab for deployment status
 
-   - Your site will be available at: `https://yourusername.github.io/Desenvolvimento-Web-freeCodeCamp/`## 📫 Contato
+Contributions are welcome! Here's how you can help:   - Your site will be available at: `https://yourusername.github.io/Desenvolvimento-Web-freeCodeCamp/`
 
 
 
-### Deploy to Other Platforms**José Roberto Damasceno**
+1. **Fork the repository**### Deploy to Other Platforms
+
+2. **Create a feature branch**
+
+   ```bash#### ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) Netlify
+
+   git checkout -b feature/amazing-feature1. Go to [Netlify](https://netlify.com)
+
+   ```2. Drag and drop the project folder
+
+3. **Make your changes**3. Site will be deployed instantly
+
+4. **Commit your changes**
+
+   ```bash#### ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) Vercel
+
+   git commit -m "Add some amazing feature"1. Go to [Vercel](https://vercel.com)
+
+   ```2. Import your GitHub repository
+
+5. **Push to the branch**3. Deploy with default settings
+
+   ```bash
+
+   git push origin feature/amazing-feature---
+
+   ```
+
+6. **Open a Pull Request**## Features
 
 
 
-#### Netlify- 📧 **Email:** jbetodamasceno@gmail.com  
+### Development Guidelines### Responsive Design
 
-1. Go to [Netlify](https://netlify.com)- 🌐 **GitHub:** https://github.com/roobertoAlves
+- Follow existing code style and structure- **Mobile-first approach** - Optimized for mobile devices
 
-2. Drag and drop the project folder- 💼 **LinkedIn:** https://www.linkedin.com/in/joseroberto-damasceno
+- Test on multiple browsers and devices- **Flexible grid layouts** - Adapts to any screen size
 
-3. Site will be deployed instantly- 🔗 **Projetos Online:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
+- Ensure accessibility compliance- **Responsive typography** - Scales appropriately across devices
 
+- Add comments for complex functionality- **Touch-friendly navigation** - Optimized for touch interactions
 
+- Update documentation if needed
 
-#### Vercel---
+### Accessibility
 
-1. Go to [Vercel](https://vercel.com)
+---- **Semantic HTML5** - Proper heading hierarchy and landmarks
 
-2. Import your GitHub repository*⭐ Se você gostou dos projetos, não esqueça de dar uma estrela no repositório!*
-3. Deploy with default settings
-
----
-
-## 📖 Project Details
-
-### Main Portfolio (index.html)
-The main landing page serves as a portfolio showcase:
-
-**Features:**
-- **Responsive Navigation:** Fixed navbar with smooth scrolling
-- **Hero Section:** Animated welcome section with gradient text
-- **Project Grid:** Card-based layout showcasing all projects
-- **About Section:** Personal introduction and background
-- **Contact Section:** Social media links and contact information
-- **Dark Theme:** Modern dark color scheme with purple accents
-
-**CSS Architecture:**
-- **CSS Variables:** Consistent color scheme and theming
-- **Flexbox/Grid:** Modern layout techniques
-- **Media Queries:** Responsive design for all screen sizes
-- **Animations:** Smooth transitions and hover effects
-
-### Individual Projects
-Each project folder contains:
-- `index.html` - Main HTML structure
-- `styles.css` - Project-specific styling
-- `script.js` - JavaScript functionality (where applicable)
-
----
-
-## 🌟 Features
-
-### ✅ Responsive Design
-- **Mobile-first approach** - Optimized for mobile devices
-- **Flexible grid layouts** - Adapts to any screen size
-- **Responsive typography** - Scales appropriately across devices
-- **Touch-friendly navigation** - Optimized for touch interactions
-
-### ✅ Accessibility
-- **Semantic HTML5** - Proper heading hierarchy and landmarks
 - **Alt text for images** - Screen reader friendly
-- **Keyboard navigation** - Fully navigable without mouse
+
+## License- **Keyboard navigation** - Fully navigable without mouse
+
 - **High contrast ratios** - Meets WCAG guidelines
 
-### ✅ Performance
-- **Optimized images** - Proper sizing and formats
+This project is open source and available under the [MIT License](LICENSE).
+
+### Performance
+
+---- **Optimized images** - Proper sizing and formats
+
 - **Minimal dependencies** - Only essential external resources
-- **Clean code structure** - Well-organized and commented
+
+## Contact- **Clean code structure** - Well-organized and commented
+
 - **Fast loading times** - Optimized for quick page loads
 
-### ✅ Modern Web Standards
-- **HTML5 semantic elements** - `<header>`, `<nav>`, `<main>`, `<section>`
-- **CSS3 features** - Flexbox, Grid, animations, variables
-- **Progressive enhancement** - Works without JavaScript
+**José Roberto Damasceno**
+
+- **Email:** [jbetodamasceno@gmail.com](mailto:jbetodamasceno@gmail.com)### Modern Web Standards
+
+- **GitHub:** [@roobertoAlves](https://github.com/roobertoAlves)- **HTML5 semantic elements** - `<header>`, `<nav>`, `<main>`, `<section>`
+
+- **LinkedIn:** [José Roberto Damasceno](https://www.linkedin.com/in/joseroberto-damasceno)- **CSS3 features** - Flexbox, Grid, animations, variables
+
+- **Portfolio:** [Live Demo](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)- **Progressive enhancement** - Works without JavaScript
+
 - **Cross-browser compatibility** - Tested on modern browsers
 
 ---
 
-## 🤝 Contributing
+---
 
-Contributions are welcome! Here's how you can help:
+## Acknowledgments
 
-1. **Fork the repository**
+## Contributing
+
+- **[freeCodeCamp](https://www.freecodecamp.org/)** - For providing excellent web development education
+
+- **Font Awesome** - For beautiful iconsContributions are welcome! Here's how you can help:
+
+- **Google Fonts** - For typography
+
+- **GitHub Pages** - For free hosting1. **Fork the repository**
+
 2. **Create a feature branch**
-   ```bash
+
+---   ```bash
+
    git checkout -b feature/amazing-feature
-   ```
+
+## Project Stats   ```
+
 3. **Make your changes**
-4. **Commit your changes**
+
+- **Total Projects:** 54. **Commit your changes**
+
+- **Languages:** HTML5, CSS3, JavaScript   ```bash
+
+- **Lines of Code:** ~2,000+   git commit -m "Add some amazing feature"
+
+- **Responsive Breakpoints:** Mobile, Tablet, Desktop   ```
+
+- **Browser Support:** Chrome, Firefox, Safari, Edge5. **Push to the branch**
+
    ```bash
-   git commit -m "Add some amazing feature"
+
+---   git push origin feature/amazing-feature
+
    ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
+
+**Built with ❤️ by José Roberto Damasceno**6. **Open a Pull Request**
 
 ### Development Guidelines
 - Follow existing code style and structure
@@ -467,23 +549,23 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📜 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📫 Contact
+## Contact
 
 **José Roberto Damasceno**
-- 📧 **Email:** [jbetodamasceno@gmail.com](mailto:jbetodamasceno@gmail.com)
-- 🌐 **GitHub:** [@roobertoAlves](https://github.com/roobertoAlves)
-- 💼 **LinkedIn:** [José Roberto Damasceno](https://www.linkedin.com/in/joseroberto-damasceno)
-- 🔗 **Portfolio:** [Live Demo](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
+- **Email:** [jbetodamasceno@gmail.com](mailto:jbetodamasceno@gmail.com)
+- **GitHub:** [@roobertoAlves](https://github.com/roobertoAlves)
+- **LinkedIn:** [José Roberto Damasceno](https://www.linkedin.com/in/joseroberto-damasceno)
+- **Portfolio:** [Live Demo](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **[freeCodeCamp](https://www.freecodecamp.org/)** - For providing excellent web development education
 - **Font Awesome** - For beautiful icons
@@ -492,7 +574,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📊 Project Stats
+## Project Stats
 
 - **Total Projects:** 5
 - **Languages:** HTML5, CSS3, JavaScript
@@ -502,6 +584,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*⭐ If you found this project helpful, please consider giving it a star on GitHub!*
-
 **Built with ❤️ by José Roberto Damasceno**
+
