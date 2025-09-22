@@ -2,23 +2,9 @@
 
 
 
-**🔗 Ver Portfólio Online:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
+**🔗 Ver Portfólio Online:** [https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/)
 
 Este repositório contém projetos desenvolvidos durante o curso **Responsive Web Design** da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco nos fundamentos de **HTML5**, **CSS3** e introdução ao **JavaScript**.
-
-
-## 🚀 Projetos:**🏠 Portfólio Principal:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/  
-
-- 🏛️ **Página de Tributo** - Homenagem à Joana D'Arc**📂 Projetos Individuais:** Cada projeto pode ser acessado adicionando o nome da pasta à URL base.
-
-- 📋 **Formulário de Pesquisa** - Formulário interativo com validações
-
-- 📄 **Documentação Técnica** - Página com navegação lateral> **Nota:** A URL principal agora exibe uma landing page de portfólio com links diretos para todos os projetos.
-
-- 🛍️ **Landing Page** - Página de produto para conversão
-
-- 🧮 **Calculadora INSS** - Calculadora funcional com JavaScript---
-
 
 
 ## 🔧 Tecnologias:## 🔧 Tecnologias Utilizadas
