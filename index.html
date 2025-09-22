@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>José Roberto - Projetos freeCodeCamp</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <nav id="navbar">
+            <ul>
+                <li><a href="#welcome-section">Início</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#projects">Projetos</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+        <section id="welcome-section">
+            <div class="welcome-container">
+                <h1>🌐 Projetos freeCodeCamp</h1>
+                <p>Portfólio de Desenvolvimento Web Responsivo</p>
+                <p>Projetos desenvolvidos durante o curso de Web Design Responsivo</p>
+                <a href="#projects" class="btn-main">Ver Projetos</a>
+            </div>
+        </section>
+    </header>
+
+    <section id="about">
+        <div class="about-container">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03c-6A4dy8QhXQuCNXboJW2jCqElUVdhQu4zSgp4_RGjZgSGu-RYeqSm5uk2gbw-UUT0&usqp=CAU" alt="José Roberto">
+            <div class="about-text">
+                <h2>José Roberto Damasceno</h2>
+                <p>Desenvolvedor Web em formação, com experiência em desenvolvimento de jogos digitais utilizando C#. Este portfólio apresenta os projetos desenvolvidos durante o curso de <strong>Responsive Web Design</strong> da plataforma freeCodeCamp.</p>
+                <p>Focado em criar aplicações web modernas, responsivas e acessíveis utilizando as melhores práticas de HTML5, CSS3 e JavaScript.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Meus Projetos freeCodeCamp</h2>
+        <div class="projects-grid">
+            <div class="project-tile">
+                <a href="./Tribute-page/" target="_blank">
+                    <i class="fas fa-monument"></i>
+                    <h3>🏛️ Página de Tributo</h3>
+                    <p>Página dedicada a homenagear Joana D'Arc, utilizando estrutura semântica HTML5 e design responsivo.</p>
+                    <div class="tech-stack">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="project-tile">
+                <a href="./form/" target="_blank">
+                    <i class="fas fa-clipboard-list"></i>
+                    <h3>📋 Formulário de Pesquisa</h3>
+                    <p>Formulário interativo com validações HTML5 e design moderno e acessível.</p>
+                    <div class="tech-stack">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="project-tile">
+                <a href="./tech_doc/" target="_blank">
+                    <i class="fas fa-file-code"></i>
+                    <h3>📄 Documentação Técnica</h3>
+                    <p>Página de documentação com navegação lateral fixa e conteúdo organizado em seções.</p>
+                    <div class="tech-stack">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="project-tile">
+                <a href="./Shop/" target="_blank">
+                    <i class="fas fa-shopping-cart"></i>
+                    <h3>🛍️ Landing Page - Loja</h3>
+                    <p>Landing page focada em conversão com elementos de call-to-action e design atrativo.</p>
+                    <div class="tech-stack">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="project-tile">
+                <a href="./Calculadora-inss/" target="_blank">
+                    <i class="fas fa-calculator"></i>
+                    <h3>🧮 Calculadora INSS</h3>
+                    <p>Calculadora funcional para simulação de desconto do INSS com cálculos dinâmicos em JavaScript.</p>
+                    <div class="tech-stack">
+                        <span class="tech-tag">HTML5</span>
+                        <span class="tech-tag">CSS3</span>
+                        <span class="tech-tag">JavaScript</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>📫 Contato</h2>
+        <p><strong>José Roberto Damasceno</strong></p>
+        <p>Desenvolvedor Web & Game Developer</p>
+        <div class="contact-icons">
+            <a href="https://github.com/roobertoAlves" target="_blank" title="GitHub">
+                <i class="fab fa-github"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/joseroberto-damasceno" target="_blank" title="LinkedIn">
+                <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="mailto:jbetodamasceno@gmail.com" title="Email">
+                <i class="fas fa-envelope"></i>
+            </a>
+        </div>
+        <p>📧 jbetodamasceno@gmail.com</p>
+    </section>
+
+    <footer id="footer">
+        <p>&copy; 2024 José Roberto Damasceno. Todos os direitos reservados.</p>
+        <p>⭐ Se você gostou dos projetos, não esqueça de dar uma estrela no repositório!</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Add scroll effect to navbar
+        window.addEventListener('scroll', function() {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 100) {
+                navbar.style.background = 'rgba(30, 30, 30, 0.95)';
+                navbar.style.backdropFilter = 'blur(10px)';
+            } else {
+                navbar.style.background = 'var(--secondary-color)';
+                navbar.style.backdropFilter = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
