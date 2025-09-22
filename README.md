@@ -1,76 +1,157 @@
-# 📁 Projetos freeCodeCamp — Desenvolvimento Web Responsivo
+# 🌐 freeCodeCamp## 🚀 Developed Projects### 📄 [Technical ### 🛍️ [Product L### 💼 [Personal Portfolio](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Portfolio/)
+**Folder:** `Portfolio/`
 
-Este repositório reúne os projetos desenvolvidos durante o curso **Desenvolvimento Web Responsivo** da plataforma [freeCodeCamp](https://www.freecodecamp.org/), com foco nos fundamentos de **HTML5**, **CSS3** e introdução ao **JavaScript**.
+Online portfolio showcasing projects, skills, and developer contact information.
 
-Cada pasta contém um projeto individual com seus respectivos arquivos e estrutura, construído com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso em cenários práticos e simulados de desenvolvimento web.
+**🎯 Goal:** Create a professional and responsive portfolio  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3age](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
+**Folder:** `Shop/`
 
----
+Product landing page focused on conversion, using call-to-action (CTA) elements and attractive design.
 
-## 🔧 Tecnologias Utilizadas
+**🎯 Goal:** Develop conversion pages and apply UX/UI principles  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3ation](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
+**Folder:** `tech_doc/`
 
-- HTML5  
-- CSS3  
-- JavaScript (apenas no projeto da Calculadora do INSS)
+Technical documentation page with fixed side navigation and content divided into organized sections.
 
----
+**🎯 Goal:** Create layouts with side navigation and content structuring  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3 — Responsive Web Development
 
-## 📂 Projetos Incluídos
+This repository contains projects developed during the **Responsive Web Design** course from [freeCodeCamp](https://www.freecodecamp.org/), focusing on **HTML5**, **CSS3** fundamentals and introduction to **JavaScript**.
 
-### 🔹 Página de Homenagem
-Uma página dedicada a homenagear uma figura fictícia ou real, utilizando estrutura semântica e estilo visual simples e responsivo.
-
-> **Responsável por:** Programação e design  
-> **Tecnologias:** HTML5 e CSS3
-
----
-
-### 🔹 Página de Documentação Técnica
-Simula a documentação técnica de uma tecnologia ou linguagem, com navegação lateral e conteúdo dividido em seções informativas.
-
-> **Responsável por:** Programação e design  
-> **Tecnologias:** HTML5 e CSS3
+**🔗 Project Access:** Each folder contains an individual project that can be accessed through GitHub Pages at the base URL: 
+**https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/**
 
 ---
 
-### 🔹 Landing Page de Produto
-Página de divulgação de um produto com foco em conversão, utilizando chamadas para ação (CTA), layout atrativo e responsividade.
+## 🔧 Technologies Used
 
-> **Responsável por:** Programação e design  
-> **Tecnologias:** HTML5 e CSS3
-
----
-
-### 🔹 Página de Portfólio Pessoal
-Portfólio online que apresenta os projetos, habilidades e formas de contato do desenvolvedor.
-
-> **Responsável por:** Programação e design  
-> **Tecnologias:** HTML5 e CSS3
+- **HTML5** - Semantic page structure
+- **CSS3** - Styling and responsiveness  
+- **JavaScript** - Interactivity (INSS Calculator project)
 
 ---
 
-### 🔹 Calculadora do INSS
-Calculadora funcional para simulação do desconto do INSS com base no salário informado, utilizando JavaScript para os cálculos dinâmicos.
+## � Projetos Desenvolvidos
 
-> **Responsável por:** Programação e design  
-> **Tecnologias:** HTML5, CSS3 e JavaScript
+### 🏛️ [Tribute Page](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Tribute-page/)
+**Folder:** `Tribute-page/`
 
----
+A tribute page dedicated to Joan of Arc, using semantic HTML5 structure and responsive design with CSS3.
 
-## 📌 Observações
-
-- Todos os projetos seguem práticas básicas de acessibilidade e organização de código.
-- Os projetos foram testados em diferentes resoluções para garantir a responsividade.
-- Este repositório tem fins educacionais e demonstrativos, como parte da formação em desenvolvimento web oferecida pelo freeCodeCamp.
+**🎯 Goal:** Apply semantic HTML structuring and basic styling concepts  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3
 
 ---
 
-## 📫 Contato
+### 📋 [Survey Form](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/form/)
+**Folder:** `form/`
 
-Caso deseje saber mais ou entrar em contato:
+Interactive survey form with HTML5 validations and modern, accessible design.
 
-- 📧 Email: jbetodamasceno@gmail.com  
-- 🌐 Portfólio / GitHub: https://github.com/roobertoAlves
-- LinkedIn: www.linkedin.com/in/joseroberto-damasceno
+**🎯 Goal:** Master HTML5 form elements and validations  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3
 
+---
 
- 
+### � [Documentação Técnica](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/tech_doc/)
+**Pasta:** `tech_doc/`
+
+Página de documentação técnica com navegação lateral fixa e conteúdo dividido em seções organizadas.
+
+**🎯 Objetivo:** Criar layouts com navegação lateral e estruturação de conteúdo  
+**📱 Responsivo:** ✅ Sim  
+**🛠️ Tecnologias:** HTML5, CSS3
+
+---
+
+### �️ [Landing Page - Loja](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Shop/)
+**Pasta:** `Shop/`
+
+Landing page de produto com foco em conversão, utilizando chamadas para ação (CTA) e design atrativo.
+
+**🎯 Objetivo:** Desenvolver páginas de conversão e aplicar princípios de UX/UI  
+**📱 Responsivo:** ✅ Sim  
+**🛠️ Tecnologias:** HTML5, CSS3
+
+---
+
+### � [Portfólio Pessoal](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Portfolio/)
+**Pasta:** `Portfolio/`
+
+Portfólio online apresentando projetos, habilidades e informações de contato do desenvolvedor.
+
+**🎯 Objetivo:** Criar um portfólio profissional e responsivo  
+**📱 Responsivo:** ✅ Sim  
+**🛠️ Tecnologias:** HTML5, CSS3
+
+---
+
+### 🧮 [INSS Calculator](https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/Calculadora-inss/)
+**Folder:** `Calculadora-inss/`
+
+Functional calculator for INSS (Brazilian Social Security) discount simulation based on informed salary, with dynamic JavaScript calculations.
+
+**🎯 Goal:** Implement programming logic and JavaScript interactivity  
+**📱 Responsive:** ✅ Yes  
+**🛠️ Technologies:** HTML5, CSS3, JavaScript
+
+---
+
+## 🌟 Project Features
+
+- ✅ **Fully Responsive** - Adapted for desktop, tablet, and mobile
+- ♿ **Accessibility** - Follow basic web accessibility practices
+- 🎨 **Modern Design** - Clean and user-friendly interface
+- 📱 **Mobile First** - Developed prioritizing mobile devices
+- 🧹 **Clean Code** - Organized structure and well-commented
+- 🔗 **GitHub Pages** - All projects are available online
+
+---
+
+## 📁 Repository Structure
+
+```
+Desenvolvimento-Web-freeCodeCamp/
+├── Calculadora-inss/       # INSS discount calculator
+├── form/                   # Survey form
+├── Portfolio/              # Personal portfolio
+├── Shop/                   # Product landing page
+├── tech_doc/              # Technical documentation
+├── Tribute-page/          # Tribute page
+└── README.md              # This file
+```
+
+---
+
+## 📚 About the Course
+
+This repository is part of the **Responsive Web Design** certification from freeCodeCamp, which covers:
+
+- Semantic HTML structuring
+- Advanced CSS3 styling
+- Responsive and mobile-first design
+- Flexbox and CSS Grid
+- Web accessibility
+- Introduction to JavaScript
+
+---
+
+## 📫 Contact
+
+**José Roberto Damasceno**
+
+- 📧 **Email:** jbetodamasceno@gmail.com  
+- 🌐 **GitHub:** https://github.com/roobertoAlves
+- 💼 **LinkedIn:** https://www.linkedin.com/in/joseroberto-damasceno
+- 🔗 **Live Projects:** https://roobertoalves.github.io/Desenvolvimento-Web-freeCodeCamp/
+
+---
+
+*⭐ If you liked the projects, don't forget to star the repository!*
